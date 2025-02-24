@@ -6,6 +6,7 @@ This diagram illustrates the functionalities of the ALU and how its select input
 <p align="center">
   <img src="https://github.com/SabaKzmi/Modular-ALU-Design-in-Verilog/blob/c4d17400183ca7dc4b392626eb35fa552c4f49f8/aluDescription.png" alt="res" />
 </p>
+
 ## How to Use
 1. Prepare: Save the Verilog files.
 2. Project Setup: Create a project in ModelSim and add the files.
