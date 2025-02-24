@@ -1,6 +1,6 @@
 # Modular ALU Design in Verilog
 This Verilog project features an Arithmetic Logic Unit (ALU) with capabilities for addition, subtraction, increment, and decrement. It also performs logical operations such as
-AND, OR, NOT, and XOR. The design is modular, enhancing clarity and reusability.
+AND, OR, NOT, and XOR. The design is modular, enhancing clarity and reusability. It was implemented using gate-level and data flow modeling.
 ## Functionality and Select Input Operations
 This diagram illustrates the functionalities of the ALU and how its select inputs (s2, s1, s0) determine the performed operations.
 <p align="center">
